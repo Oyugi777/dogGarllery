@@ -11,5 +11,5 @@ A simple, responsive web app that displays random images of dog breeds using the
 - Fully responsive grid layout for modern devices
 
 ##  Live Preview
-
+->https://oyugi777.github.io/dogGarllery/
 
